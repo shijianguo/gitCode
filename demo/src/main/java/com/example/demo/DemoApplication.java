@@ -8,6 +8,7 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         System.out.println("this is spring boot starter");
+        System.out.println("this is spring boot end");
         SpringApplication.run(DemoApplication.class, args);
     }
 
