@@ -10,6 +10,7 @@ public class DemoApplication {
         System.out.println("this is spring boot starter");
         System.out.println("this is spring boot end");
         System.out.println("this is springBoot detail start");
+        System.out.println("this is springBoot detail end");
         SpringApplication.run(DemoApplication.class, args);
     }
 

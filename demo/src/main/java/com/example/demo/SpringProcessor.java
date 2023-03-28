@@ -1,4 +1,6 @@
 package com.example.demo;
 
-public class SpringProcessor {
+import java.io.Serializable;
+
+public class SpringProcessor implements Serializable {
 }
